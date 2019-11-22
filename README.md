@@ -4,4 +4,7 @@ live site here: https://marksirany.github.io/planner/
 
 screenshots:
 
-user input
+![userinput pic](./shot1.png)
+
+![useroutput pic](./shot2.png)
+
